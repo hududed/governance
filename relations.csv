@@ -1,0 +1,133 @@
+﻿from,to
+Superholon,Business
+Superholon,Governance
+Superholon,Marketing
+Superholon,Devs
+Superholon,Design
+Business,Finance
+Business,BusinessDevelopment
+Business,Project Management
+Business,Tokenomics
+Marketing,Product Design
+Marketing,Project Management
+Marketing,Education
+Marketing,Content
+Marketing,Memes
+Marketing,Illustration
+Marketing,Graphic Design
+Marketing,Video
+Devs,Frontend
+Devs,Backend
+Devs,Smart Contracts
+Devs,Functional Programming
+Devs,UXUI
+Devs,Tokenomics
+Devs,Javascript
+Devs,Haskell
+Devs,Plutus
+Devs,Marlow
+Devs,Solidity
+Devs,Game Theory
+Governance,Game Theory
+Governance,Smart Contracts
+Frontend,Quinn Parkinson
+Frontend,Bob Black
+Backend,Quinn Parkinson
+Backend,Dan Beste
+Backend,Eric Chan
+Backend,Michael Yagi
+Backend,Wilhelm Horrix
+Backend,Hud Wahab
+Backend,Jeff Zaroyko
+Smart Contracts,Quinn Parkinson
+Smart Contracts,Michael Yagi
+Smart Contracts,Hans
+Functional Programming,Quinn Parkinson
+Functional Programming,Wilhelm Horrix
+Functional Programming,Hans
+UXUI,Bob Black
+UXUI,Jens Gantz
+UXUI,Tyler Wales
+UXUI,Nicholas Sierro
+Tokenomics,Dan Beste
+Tokenomics,Rich Kopcho
+Tokenomics,Nicholas Sierro
+Javascript,Eric Chan
+Javascript,Wilhelm Horrix
+Javascript,Phil Lewis
+Haskell,Michael Yagi
+Haskell,Wilhelm Horrix
+Haskell,Jeff Zaroyko
+Haskell,Hans
+Plutus,Michael Yagi
+Marlow,Wilhelm Horrix
+Solidity,Hans
+Game Theory,Matthew Snider
+Game Theory,Tevo Saks
+Game Theory,Michael Yagi
+Product Design,Dan Verowski
+Product Design,Nicholas Sierro
+Product Design,Bob Black
+Product Design,Wilhelm Horrix
+Product Design,Jens Gantz
+Product Design,Tyler Wales
+Product Design,Matthew Snider
+Product Design,Phil Lewis
+Project Management,Michael Yagi
+Project Management,Wilhelm Horrix
+Project Management,Hans
+Project Management,Tyler Wales
+Project Management,Rares Kovesdi
+Project Management,Rich Kopcho
+Project Management,Stephen Whitenstall
+Project Management,Troy Egan
+Project Management,Nicholas Sierro
+Project Management,Phil Lewis
+Project Management,Phillip Roberts
+Project Management,Tevo Saks
+Project Management,Hud Wahab
+Education,Andrew Ian Shaw
+Education,Hud Wahab
+Education,Rares Kovesdi
+Education,Stephen Whitenstall
+Education,Sebastian Pereira
+Content,Tyler Wales
+Content,Rares Kovesdi
+Content,Phillip Roberts
+Content,Sebastian Pereira
+Content,Anamaria Kovesdi
+Content,Farouk Alao
+Content,MarcelloB
+Content,Hud Wahab
+Content,Jens Gantz
+Memes,Jeff Zaroyko
+Memes,Jens Gantz
+Memes,Andrew Ian Shaw
+Memes,c
+Memes,Quinn Parkinson
+Illustration,Jens Gantz
+Illustration,Anamaria Kovesdi
+Illustration,Andrew Ian Shaw
+Illustration,c
+Illustration,Tom Robinson
+Graphic Design,Jens Gantz
+Graphic Design,Farouk Alao
+Graphic Design,Tom Robinson
+Graphic Design,MarcelloB
+Video,Jens Gantz
+Video,Rares Kovesdi
+Video,Matthew Snider
+Video,Anamaria Kovesdi
+Video,Tom Robinson
+Finance,Sev
+Finance,Matthew Snider
+Finance,Wilhelm Horrix
+BusinessDevelopment,Sev
+BusinessDevelopment,Dan Verowski
+BusinessDevelopment,Hud Wahab
+BusinessDevelopment,Tyler Wales
+BusinessDevelopment,Rares Kovesdi
+BusinessDevelopment,Rich Kopcho
+BusinessDevelopment,Matthew Snider
+BusinessDevelopment,Troy Egan
+BusinessDevelopment,Tevo Saks
